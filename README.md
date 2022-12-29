@@ -2,7 +2,7 @@ Design Pattern
 --------------------------------
 Author: Subrato Sarkar
 
-Definition of Design pattern
+Definition of different Design patterns
 --------------------------------------
 Creational Design patterns
 ```

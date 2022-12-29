@@ -3,7 +3,7 @@ package creationalDesignPattern;
 import creationalDesignPattern.phone.OS;
 import creationalDesignPattern.phone.OperatingSystemFactory;
 
-public class FactoryDesignPattern {
+public class FactoryMain {
 
     public static void main (String[] args) {
         OperatingSystemFactory operatingSystemFactory = new OperatingSystemFactory();
